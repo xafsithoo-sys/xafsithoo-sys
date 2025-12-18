@@ -1,6 +1,6 @@
 ## Hi there👋
 # 💫 About Me:
- Hi I’m Hafsa Hajir 🌟<br>Applied Mathematics & Statistics Graduate | Data Analyst | Machine Learning Enthusiast<br>👀I enjoy exploring complex datasets, uncovering patterns, and building predictive models.<br>I am interested in leveraging AI to bring ideas solution to life.<br><br><br>
+ Hi I’m Hafsa Hajir 🌟<br>Applied Mathematics & Statistics Graduate | Data Analyst | Machine Learning Enthusiast<br>👀I enjoy exploring complex datasets, uncovering patterns, and building predictive models.<br>🤩I am interested in leveraging AI to bring ideas solution to life.<br><br><br>
 
 
 ## 🌐 Socials:
